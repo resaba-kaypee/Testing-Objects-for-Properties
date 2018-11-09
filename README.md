@@ -15,3 +15,4 @@ function checkObj(checkProp) {
 }
 
 console.log(checkObj("gift"))
+
